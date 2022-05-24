@@ -1,6 +1,7 @@
 <h1>Full-stack developer</h1>
 
 <h2>Стек:</h2>
+
 - JavaScript
 - React
 - Redux
